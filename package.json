@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^6.0.2",
+    "request": "^2.88.0"
+  }
+}
